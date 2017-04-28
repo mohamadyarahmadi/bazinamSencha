@@ -1,0 +1,10 @@
+.idea/
+.sencha/
+build/
+ext/
+package/
+bootstrap.css
+bootstrap.js
+bootstrap.json
+bootstrap.jsonp
+Readme.md
